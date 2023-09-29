@@ -24,12 +24,10 @@ Make command to create an executable binary for our program:
 make -f tensorflow/lite/micro/tools/make/Makefile hello_world
 When the build completes, you can run the application binary by using the following
 command, depending on your operating system:
-## macOS:
-tensorflow/lite/micro/tools/make/gen/osx_x86_64/bin/hello_world
+
 ## Linux:
 gen/linux_x86_64_default/bin/hello_world
-## Windows
-tensorflow/lite/micro/tools/make/gen/windows_x86_64/bin/hello_world
+
 
 
 
