@@ -17,7 +17,7 @@ Install following library:
 1. numpy : pip install numpy
 2. PIL : pip install Pillow
 
-##Running Our Application
+Running Our Application
 
 To give our application code a test run, we first need to build it. Enter the following
 Make command to create an executable binary for our program:
