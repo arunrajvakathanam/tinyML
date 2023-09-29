@@ -27,7 +27,7 @@ command, depending on your operating system:
 ## macOS:
 tensorflow/lite/micro/tools/make/gen/osx_x86_64/bin/hello_world
 ## Linux:
-tensorflow/lite/micro/tools/make/gen/linux_x86_64/bin/hello_world
+gen/linux_x86_64_default/bin/hello_world
 ## Windows
 tensorflow/lite/micro/tools/make/gen/windows_x86_64/bin/hello_world
 
