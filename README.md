@@ -11,10 +11,8 @@ To show the list od packages installed in the virtual environment
 
 The project used "https://github.com/tensorflow/tflite-micro"
 
-to run hello_world application 
+To run hello_world application 
 Install following library:
 
-1. numpy
-       pip install numpy
-2. PIL
-       pip install Pillow
+1. numpy : pip install numpy
+2. PIL : pip install Pillow
